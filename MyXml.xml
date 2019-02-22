@@ -1,0 +1,7 @@
+<Cube>
+  <Cube time="2019-02-21">
+    <Cube currency="USD" rate="1.1354"/>
+    <Cube currency="JPY" rate="125.70"/>
+    <Cube currency="BGN" rate="1.9558"/>
+  </Cube>
+</Cube>
